@@ -92,7 +92,6 @@ curl -X PATCH http://localhost:3000/api/users/2/block \
   }'
 ```
 
-```markdown
 ## 🎯 Особенности реализации
 
 ### 🏗️ Архитектура
