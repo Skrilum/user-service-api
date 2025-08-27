@@ -33,6 +33,7 @@ npm run dev
 # Сборка production версии
 npm run build
 npm start
+```
 
 ## API Endpoints
 
