@@ -35,7 +35,6 @@ npm run build
 npm start
 
 ## API Endpoints
-```
 
 ### Аутентификация
 | Метод |         URL           |           Описание              | Доступ |
