@@ -109,4 +109,3 @@ curl -X PATCH http://localhost:3000/api/users/2/block \
 - **TypeScript** - полная типобезопасность
 - **Error handling** - централизованная обработка ошибок
 - **Environment configuration** - разделение dev/prod настроек
-- **Git hooks** - pre-commit проверки (если добавите)
